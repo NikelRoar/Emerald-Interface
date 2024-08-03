@@ -1,15 +1,9 @@
+body {
+    background-color: darkgreen;
+}
 header {
-    text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: lightgreen;
-    padding: 100px;
+    color: goldenrod;
 }
 footer {
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:darkolivegreen;
-    padding: 100px;
-}
-body {
-    padding: 100px;
+    color: goldenrod;
 }
