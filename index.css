@@ -3,7 +3,12 @@ body {
 }
 header {
     color: goldenrod;
+    text-align: center;
 }
 footer {
     color: goldenrod;
+    text-align: center;
+}
+navbar {
+    align-items: center;
 }
