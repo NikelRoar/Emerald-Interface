@@ -10,10 +10,10 @@
     background-color: rgba(0,0,0,0.4);
 }
 .modal-content {
-    background-color: #fefefe;
+    background-color: green;
     margin: 15% auto;
     padding: 20px;
-    border: 1px solid #888;
+    border: 1px solid gold;
     width: 80%;
 }
 .close {
@@ -23,7 +23,7 @@
     font-weight: bold;
 }
 .close:hover, .close:focus {
-    color: black;
+    color: gold;
     text-decoration: none;
     cursor: pointer;
 }
