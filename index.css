@@ -9,6 +9,7 @@ footer {
     color: goldenrod;
     text-align: center;
 }
-navbar {
+.navbar {
+    text-align: center;
     align-items: center;
 }
