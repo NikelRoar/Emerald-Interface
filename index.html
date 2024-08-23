@@ -7,15 +7,25 @@
   <header>
     <h1>Emerald Portal</h1>
   </header>
-  <div class-"navbar"><
+  <div class-"navbar">
     <button >Sign In</button>
-    <button ="signUpBtn">Sign Up</button>
-
-    <div id-"signupForm" class="modal">
-      
-    </div>
+    <button id="signUpBtn">Sign Up</button>
   </div>
-
+  <div id="singUpForm" class="modal">
+    <div class="modal-content">
+      <span class="close">&times</span>
+      <form>
+        <h2>Sign Up</h2>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="password"> Password</label>
+        <input type="password" id="passowrd" name="password" required>
+        <button type="sumbit">Sumbit</button>
+      </form>
+    </div>
+    <script src="signup-signin.js"></script>
   <footer>
     <h3> &copy; Timothy Lipscomb</h3>
   </footer>
