@@ -24,6 +24,10 @@ window.onclick = function(event) {
     if (event.target == signUpModal) {
         signUpModal.style.display = "none";
     } else if (event.target == signInModal) {
-        signUpModal.style.display = "none";
+        signInModal.style.display = "none";
     }
+}
+
+function ecryptionLogin() {
+    
 }
